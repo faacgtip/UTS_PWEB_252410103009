@@ -27,7 +27,7 @@ login → dashboard → pengelolaan → profile.
 - `resources/views/` : login, dashboard, pengelolaan, profile
 - `resources/views/components/` : navbar, footer
 
-## Screenshot
+
 ### Login
 <img width="932" height="434" alt="image" src="https://github.com/user-attachments/assets/834bbff0-076f-4dda-8e52-35d51b55e07d" />
 
