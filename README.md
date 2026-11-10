@@ -49,7 +49,6 @@ dan tanpa database.
 | `resources/views/components/navbar.blade.php` | Komponen Navbar |
 | `resources/views/components/footer.blade.php` | Komponen Footer |
 
-## 🖼️ Screenshot
 ### Login
 <img width="930" height="435" alt="image" src="https://github.com/user-attachments/assets/0547f98c-eca3-4a27-8bd0-288c9f340de4" />
 
