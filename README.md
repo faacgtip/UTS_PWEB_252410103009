@@ -65,9 +65,6 @@ dan tanpa database.
 <img width="940" height="435" alt="image" src="https://github.com/user-attachments/assets/bfa81848-a14e-48db-a9f7-f425c8c1be24" />
 
 
-## 🎥 Video Demo
-(tempel link YouTube setelah video diupload)
-
 ## 🚀 Cara Menjalankan
 Pastikan PHP 8.4 atau lebih baru dan Composer sudah terinstal.
 
