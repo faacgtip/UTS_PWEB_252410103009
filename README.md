@@ -41,10 +41,4 @@ login → dashboard → pengelolaan → profile.
 
 
 
-## Cara Menjalankan
-Butuh PHP 8.4 atau lebih baru.
 
-    php artisan key:generate
-    php artisan serve
-
-Lalu buka http://127.0.0.1:8000
