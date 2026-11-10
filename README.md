@@ -36,9 +36,3 @@ login → dashboard → pengelolaan → profile.
 
 ### Pengelolaan
 <img width="945" height="432" alt="image" src="https://github.com/user-attachments/assets/5a013feb-d00f-41d8-8561-0d97a03b1027" />
-
-### Profile
-
-
-
-
